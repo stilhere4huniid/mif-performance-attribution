@@ -1,0 +1,12 @@
+KPI_Name,Value,Format
+Portfolio_Annualized_Return,0.13040983465129652,Percentage
+Portfolio_Volatility,0.04775818281493457,Percentage
+Portfolio_Sharpe_Ratio,0.6238453208196642,Number
+Mining_Return,0.14664235110005452,Percentage
+Energy_Return,0.18471938461441062,Percentage
+ICT_Return,0.15975331825972972,Percentage
+Transport_Return,-0.023445325005536755,Percentage
+Agriculture_Return,0.2572529957868288,Percentage
+Financials_Return,0.08776434035716685,Percentage
+Real Estate_Return,0.10037387697760147,Percentage
+Manufacturing_Return,0.1473561191216064,Percentage

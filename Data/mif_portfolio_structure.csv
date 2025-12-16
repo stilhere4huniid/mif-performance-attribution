@@ -1,0 +1,24 @@
+Sector,Company,Subsector,Asset_Type
+Mining,Kuvimba Mining House,Gold/Platinum/Lithium,Major Asset
+Mining,Bindura Nickel Corporation,Nickel,Portfolio Company
+Mining,Freda Rebecca Gold Mine,Gold,Portfolio Company
+Mining,Great Dyke Investments,Platinum,Portfolio Company
+Mining,Jena Mines,Mining Services,Portfolio Company
+Mining,Bio Metallurgical Zimbabwe,Processing,Portfolio Company
+Mining,Zim Alloys,Chrome,Portfolio Company
+Energy,ZESA Holdings,Electricity,Major Asset
+Energy,National Oil Infrastructure Company,Oil Storage,Portfolio Company
+ICT,NetOne Cellular,Telecommunications,Portfolio Company
+ICT,TelOne,Telecommunications,Portfolio Company
+ICT,Telecel Zimbabwe,Telecommunications,Portfolio Company
+ICT,Econet (partial stake),Telecommunications,Strategic
+Transport,National Railways of Zimbabwe,Rail,Portfolio Company
+Transport,Air Zimbabwe,Aviation,Portfolio Company
+Transport,ZUPCO,Bus Transport,Portfolio Company
+Agriculture,Silo Investments,Food Processing,Portfolio Company
+Agriculture,Allied Timbers,Forestry,Portfolio Company
+Financials,ZIMRE Holdings,Insurance,Portfolio Company
+Financials,CBZ Holdings,Banking,Portfolio Company
+Real Estate,Various properties,Property,Portfolio
+Manufacturing,Chemplex Corporation,Chemicals,Portfolio Company
+Manufacturing,Willowvale Motor Industry,Automotive,Portfolio Company

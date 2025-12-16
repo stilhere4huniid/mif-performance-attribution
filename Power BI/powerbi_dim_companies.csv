@@ -1,0 +1,24 @@
+Sector,Company,Company_ID
+Mining,Mining_Company_1,1
+Mining,Mining_Company_2,2
+Mining,Mining_Company_3,3
+Mining,Mining_Company_4,4
+Mining,Mining_Company_5,5
+Mining,Mining_Company_6,6
+Mining,Mining_Company_7,7
+Energy,Energy_Company_1,8
+Energy,Energy_Company_2,9
+ICT,ICT_Company_1,10
+ICT,ICT_Company_2,11
+ICT,ICT_Company_3,12
+ICT,ICT_Company_4,13
+Transport,Transport_Company_1,14
+Transport,Transport_Company_2,15
+Transport,Transport_Company_3,16
+Agriculture,Agriculture_Company_1,17
+Agriculture,Agriculture_Company_2,18
+Financials,Financials_Company_1,19
+Financials,Financials_Company_2,20
+Real Estate,Real Estate_Company_1,21
+Manufacturing,Manufacturing_Company_1,22
+Manufacturing,Manufacturing_Company_2,23
