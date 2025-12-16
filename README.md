@@ -126,13 +126,13 @@ jupyter notebook notebooks/MIF_Performance_Dashboard.ipynb
 ![Executive Overview](screenshots/executive_overview.png)
 
 ### Performance Attribution
-![Performance Attribution](screenshots/performance_attribution.png)
+![Performance Attribution](Screenshots/performance_attribution.png)
 
 ### Sector Deep Dive
-![Sector Deep Dive](screenshots/sector_deep_dive.png)
+![Sector Deep Dive](Screenshots/sector_deep_dive.png)
 
 ### Market Context
-![Market Context](screenshots/market_context.png)
+![Market Context](Screenshots/market_context.png)
 
 ## 🧪 Testing
 
