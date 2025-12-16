@@ -123,7 +123,7 @@ jupyter notebook notebooks/MIF_Performance_Dashboard.ipynb
 ## 📊 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### Performance Attribution
 ![Performance Attribution](Screenshots/performance_attribution.png)
@@ -168,13 +168,14 @@ This project uses simulated data with realistic characteristics:
 
 ## ⚠️ Limitations & Disclaimers
 
-1. **Simulated Data:** This project uses synthetically generated data and does not reflect actual Mutapa Investment Fund performance or holdings.
+1. **Simulated Data:** This project uses synthetically generated data and does not reflect actual Mutapa Investment Fund performance or holdings. It is a factor to consider why Market Context page in the dashboard is incomplete
 
 2. **Educational Purpose:** Created as an independent project to demonstrate financial data science skills.
 
 3. **Not Financial Advice:** This analysis is for educational and portfolio demonstration purposes only.
 
 4. **Simplified Assumptions:** Real-world factors such as transaction costs, taxes, and liquidity constraints are not modeled.
+   
 
 ## 🎓 Skills Demonstrated
 
