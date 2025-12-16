@@ -202,7 +202,7 @@ This project uses simulated data with realistic characteristics:
 **Adonis Chiruka**
 - LinkedIn: [linkedin.com/in/adonis-chiruka-70b265323](https://www.linkedin.com/in/adonis-chiruka-70b265323)
 - Email: chirukakatakudzwa61@gmail.com
-- GitHub: [@YourGitHubUsername](https://github.com/YourUsername)
+- GitHub: [@stilhere4huniid](https://github.com/stilhere4huniid)
 
 ## 🙏 Acknowledgments
 
